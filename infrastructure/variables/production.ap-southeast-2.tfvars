@@ -35,14 +35,6 @@ records=[
     ]
   },
   {
-    name    = ""
-    type    = "A"
-    ttl     = 3600
-    records = [
-      "127.0.0.1"
-    ]
-  },
-  {
     name    = "preview"
     type    = "NS"
     ttl     = 3600
